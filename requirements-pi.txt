@@ -1,0 +1,11 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+click==8.1.7
+gTTS==2.5.1
+idna==3.7
+numpy==1.26.4
+opencv-python==4.9.0.80
+pvporcupine==3.0.2
+pvrecorder==1.2.2
+requests==2.31.0
+urllib3==2.2.1
