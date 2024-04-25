@@ -1,7 +1,7 @@
 import pvporcupine
 from pvrecorder import PvRecorder
 
-KEYWORD_FILE_PATH = './model/jarvis_en_linux_v3_0_0.ppn'
+KEYWORD_FILE_PATH = './model-pi/jarvis_en_raspberry-pi_v3_0_0.ppn'
 
 porcupine = pvporcupine.create(
     access_key="u/kod4bBbp87SvR+HnfTE8jalPhs9pO6BKHgURpX0hcZv09roVGPZQ==", keyword_paths=[f'{KEYWORD_FILE_PATH}'])
